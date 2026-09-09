@@ -71,7 +71,7 @@ Create the following measures:
 
 **Output**
 
-<img width="605" height="334" alt="image" src="https://github.com/user-attachments/assets/3c70cea3-edb5-4a2a-87ce-07189cc2940d" />
+<img width="611" height="331" alt="image" src="https://github.com/user-attachments/assets/fa973789-23eb-4207-8a8f-b8ea21130f26" />
 
 
 **Result**
